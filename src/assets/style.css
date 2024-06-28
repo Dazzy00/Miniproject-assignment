@@ -1,0 +1,45 @@
+p{
+    color: #202020;
+    width: 900px;
+}
+
+body {
+
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;   
+}
+
+html {
+    background-color: #fff;
+    font-size: 16px;   
+    font-family: "Open Sans", sans-serif; 
+}
+
+h1{
+    font-size: 55px; 
+    text-align: center;
+}
+h2{
+    font-size: 35px; 
+    text-align: center;
+}
+h3{
+    font-size: 20px; 
+    text-align: center;
+}
+#kickstart{
+    font-size: 45px;
+    color: #1f0543;
+    text-align: center;
+}
+
+.headings{
+    color: #140628;
+}
+  button{
+    cursor: pointer;
+  }
+  li{
+    list-style-type: none;
+  }
